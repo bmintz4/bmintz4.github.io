@@ -1,1 +1,1 @@
-# bmintz4.github.io
+# Brian Mintz's page
