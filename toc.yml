@@ -1,4 +1,5 @@
 items:
  - name: Projects
    items:
-   - href: projects/shell-implementation.md
+   - name: Shell Implementation
+   - href: projects/shell implementation.md
