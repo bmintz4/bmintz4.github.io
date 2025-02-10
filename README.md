@@ -1,1 +1,5 @@
-# Brian Mintz's page
+---
+id: README
+title: Home
+---
+# Home
