@@ -1,0 +1,5 @@
+sidebar:
+  - label: Projects
+    children:
+      - Threads-Comparison
+      - Shell-Implementation
