@@ -1,7 +1,11 @@
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
 sidebar:
+  - README
   - label: Projects
     children:
       - Threads-Comparison
       - Shell-Implementation
+  - label: Certifications
+    children:
+      - CompTIA A+
