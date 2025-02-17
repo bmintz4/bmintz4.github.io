@@ -6,7 +6,6 @@ sidebar:
     children:
       - Threads-Comparison
       - Shell-Implementation
-      - Shell-Imp
   - label: Certifications
     children:
       - CompTIA-A
